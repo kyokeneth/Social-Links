@@ -18,7 +18,8 @@ body * {
 
 #container {
     width: 360px;
-    margin: 56px auto 0;
+    margin: 56px auto 0px;
+    padding: 0 24px;
     border: 1px solid #ff0000;
 }
 
@@ -63,5 +64,5 @@ ul li a {
 
 ul li a:hover {
     background: rgba(255, 255, 255, 0.05);
-    border: solid white;
+    border: 1.5px solid white;
 }
